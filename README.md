@@ -54,4 +54,4 @@ Electrical Engineering student at Washington State University focused on **RF sy
 + **2025 CrimsonCode Hackathon** [Fractal Simulator](https://github.com/GusBallmanjr/2025-CrimsonCode-Hackathon)
 + **x86 Assembly Hello World** [x86 Hello World](https://github.com/GusBallmanjr/Assembly-Hello-World)
 + **WSU CptS 121 Coursework** [CptS 121 - Gus Ballman](https://github.com/GusBallmanjr/CptS-121-Program-Design-and-Development-C-WSU)
-+ **First software (for robotic elevator) - January 24th, 2019** [Vex Elevator Robotics Project Code](https://github.com/GusBallmanjr/Vex-Elevator-Robot-Code)
++ **First Program (Robotic Elevator)** [Vex Elevator Robotics Project Code](https://github.com/GusBallmanjr/Vex-Elevator-Robot-Code)
