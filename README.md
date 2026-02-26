@@ -14,10 +14,8 @@ Electrical Engineering student at Washington State University focused on **RF sy
 ---
 
 ## Featured Projects
-+ **Custom Kernel Project** - Linux‑inspired file system, scheduler, and memory model  
-+ **Robotics Platform (v1 & v2)** - embedded control, sensor fusion, mechanical design  
-+ **CNC Machining Projects** - precision parts, fixtures, and manufacturing workflows  
-+ **Fitbit Data Analysis** - clean, minimal data‑processing pipeline  
++ [Kernel Project](https://github.com/GusBallmanjr/ARM-Monolithic-Kernel) - ARM based, Linux-inspired architecture, memory management, and scheduling
++ [Encryption Project](https://github.com/mrthomaslibrary/kevlar-encryption) - Lightweight asymmetric encryption system
 
 ---
 
@@ -29,10 +27,10 @@ Electrical Engineering student at Washington State University focused on **RF sy
 ---
 
 ## Programming Languages
-+ C
-+ C++
-+ Verilog
-+ ARM Assembly
++ **C**
++ **C++**
++ **Verilog**
++ **ARM Assembly**
 
 ---
 
@@ -42,4 +40,4 @@ Electrical Engineering student at Washington State University focused on **RF sy
 + **Resume** [Resume](https://docs.google.com/document/d/13i5mefX-h9M8QtJCZFSq7OxY1a8pcCSkvOpbYp0FuUk/edit?usp=sharing)
 + **Email:** (gusballmanjr@gmail.com)
 
-<img src="Banner.PNG" width="100%" />
+<img src="Banner.png" width="100%" />
