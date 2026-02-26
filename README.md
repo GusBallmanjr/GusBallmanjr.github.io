@@ -1,4 +1,4 @@
-# Hello, I'm Gus Ballman
+# Hello
 
 Electrical Engineering student at Washington State University focused on **RF systems**, **embedded development**, **robotics**, and **digital logic**. I love to build low‑level systems with an emphasis on clarity, maintainability, simplicity, and hands‑on engineering.
 
