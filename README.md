@@ -6,11 +6,11 @@ Electrical Engineering student at Washington State University focused on **RF sy
 ---
 
 ## Technical Focus
-+ **Embedded Systems** - ARM, C/C++, bare‑metal workflows  
-+ **RF Engineering** - FCC ham technician certification in progress  
-+ **Digital Logic & Hardware** - Verilog, FPGA workflows, hardware bring‑up  
-+ **Robotics & Control** - microcontrollers, sensors, real‑time systems  
-+ **Manufacturing** - CNC machining, 3D printing, mechanical integration  
++ **Embedded Systems** - ARM, C/C++, Bare‑metal Workflows  
++ **RF Engineering** - FCC Ham Technician Certification (in progress)  
++ **Digital Logic & Hardware** - Verilog, FPGA Workflows
++ **Robotics & Control** - Microcontrollers, Sensors, Real‑time Systems  
++ **Manufacturing** - CNC Machining, 3D Printing, Mechanical integration  
 
 ---
 
@@ -22,9 +22,9 @@ Electrical Engineering student at Washington State University focused on **RF sy
 ---
 
 ## What I’m Working On
-+ RF experimentation & ham radio certification  
-+ Expanding my kernel subsystems  
-+ Lightweight cryptography modules  
++ RF Experimentation & Ham Radio Certification  
++ Expanding my Kernel Subsystems and Knowledge  
++ Lightweight Cryptography Modules  
 
 ---
 
@@ -46,7 +46,7 @@ Electrical Engineering student at Washington State University focused on **RF sy
 
 ---
 
-## Past Projects in Chronological Order (Newest at top)
+## Past Projects in Chronological Order (Newest at Top)
 + **2026 CrimsonCode Hackathon** [OGRE Encryption - Precursor to Kevlar Encryption](https://github.com/GusBallmanjr/2026-CrimsonCode-Hackathon-OGRE-Encyrption-)
 + **WSU CptS 122 Final Project** [CptS 122 Final Project](https://github.com/GusBallmanjr/CptS-122-Data-Structures-WSU---Project-9)
 + **WSU EE 214 Coursework** [EE 214 - Gus Ballman](https://github.com/GusBallmanjr/EE-214-Design-of-Logical-Circuits--Verilog--)
