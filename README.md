@@ -13,7 +13,7 @@ Electrical Engineering student at Washington State University focused on **RF sy
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 + **Custom Kernel Project** - Linux‑inspired file system, scheduler, and memory model  
 + **Robotics Platform (v1 & v2)** - embedded control, sensor fusion, mechanical design  
 + **CNC Machining Projects** - precision parts, fixtures, and manufacturing workflows  
@@ -25,6 +25,14 @@ Electrical Engineering student at Washington State University focused on **RF sy
 + RF experimentation & ham radio certification  
 + Expanding my kernel subsystems  
 + Lightweight cryptography modules  
+
+---
+
+## Programming Languages
++ C
++ C++
++ Verilog
++ ARM Assembly
 
 ---
 
