@@ -37,12 +37,12 @@ Electrical Engineering student at Washington State University focused on **RF sy
 ---
 
 ## Contact
-+ **General Github Link** [GusBallmanjr Github](https://github.com/GusBallmanjr)
++ **General Github Link:** [GusBallmanjr Github](https://github.com/GusBallmanjr)
 + **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gusballmanjr/)
-+ **Portfolio** [Portfolio](https://docs.google.com/document/d/1Rha27cDPyCqS3UYorWfaFyIsLz7KRRIMj108fUmySow/edit?usp=sharing)
-+ **Resume** [Resume](https://docs.google.com/document/d/13i5mefX-h9M8QtJCZFSq7OxY1a8pcCSkvOpbYp0FuUk/edit?usp=sharing)
++ **Portfolio:** [Portfolio](https://docs.google.com/document/d/1Rha27cDPyCqS3UYorWfaFyIsLz7KRRIMj108fUmySow/edit?usp=sharing)
++ **Resume:** [Resume](https://docs.google.com/document/d/13i5mefX-h9M8QtJCZFSq7OxY1a8pcCSkvOpbYp0FuUk/edit?usp=sharing)
 + **Email:** [Email](gusballmanjr@gmail.com)
-+ **Devpost** [Devpost](https://devpost.com/gusballmanjr?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
++ **Devpost:** [Devpost](https://devpost.com/gusballmanjr?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ---
 
