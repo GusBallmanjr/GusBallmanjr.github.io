@@ -1,4 +1,4 @@
-<img src="Banner.png" width="100%" />
+<img src="Banner.png" width="60%" />
 # Hello
 
 Electrical Engineering student at Washington State University focused on **RF systems**, **embedded development**, **robotics**, and **digital logic**. I love to build low‑level systems with an emphasis on clarity, maintainability, simplicity, and hands‑on engineering.
@@ -36,7 +36,9 @@ Electrical Engineering student at Washington State University focused on **RF sy
 ---
 
 ## Contact
++ **General Github Link** [GusBallmanjr Github](https://github.com/GusBallmanjr)
 + **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gusballmanjr/)
 + **Portfolio** [Portfolio](https://docs.google.com/document/d/1Rha27cDPyCqS3UYorWfaFyIsLz7KRRIMj108fUmySow/edit?usp=sharing)
 + **Resume** [Resume](https://docs.google.com/document/d/13i5mefX-h9M8QtJCZFSq7OxY1a8pcCSkvOpbYp0FuUk/edit?usp=sharing)
 + **Email:** [Email](gusballmanjr@gmail.com)
++ **Devpost** [Devpost](https://devpost.com/gusballmanjr?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
