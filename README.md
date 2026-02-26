@@ -41,3 +41,5 @@ Electrical Engineering student at Washington State University focused on **RF sy
 + **Portfolio** [Portfolio](https://docs.google.com/document/d/1Rha27cDPyCqS3UYorWfaFyIsLz7KRRIMj108fUmySow/edit?usp=sharing)
 + **Resume** [Resume](https://docs.google.com/document/d/13i5mefX-h9M8QtJCZFSq7OxY1a8pcCSkvOpbYp0FuUk/edit?usp=sharing)
 + **Email:** (gusballmanjr@gmail.com)
+
+<img src="Banner.PNG" width="100%" />
