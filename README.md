@@ -1,7 +1,11 @@
 <img src="IMG_6048.jpg" width="25%" />
 # Hello
 
-Electrical Engineering student at Washington State University focused on **RF systems**, **embedded development**, **robotics**, and **digital logic**. I love to build low‑level systems with an emphasis on clarity, maintainability, simplicity, and hands‑on engineering.
+Gus Ballman is an **Electrical Engineering Student** at Washington State University focused on **RF systems**, **embedded development**, **robotics**, and **digital logic**. I love to build low‑level systems with an emphasis on clarity, maintainability, simplicity, and hands‑on engineering.
+
+---
+
+[Past Projects Page](PASTPROJECTS.md)
 
 ---
 
@@ -11,6 +15,14 @@ Electrical Engineering student at Washington State University focused on **RF sy
 + **Digital Logic & Hardware** - Verilog, FPGA Workflows
 + **Robotics & Control** - Microcontrollers, Sensors, Real‑time Systems  
 + **Manufacturing** - CNC Machining, 3D Printing, Mechanical integration  
+
+---
+
+## Programming Languages
++ **C**
++ **C++**
++ **Verilog**
++ **ARM Assembly**
 
 ---
 
@@ -25,14 +37,6 @@ Electrical Engineering student at Washington State University focused on **RF sy
 + RF Experimentation & Ham Radio Certification  
 + Expanding my Kernel Subsystems and Knowledge  
 + Lightweight Cryptography Modules  
-
----
-
-## Programming Languages
-+ **C**
-+ **C++**
-+ **Verilog**
-+ **ARM Assembly**
 
 ---
 
