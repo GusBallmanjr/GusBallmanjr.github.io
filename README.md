@@ -5,7 +5,7 @@ Gus Ballman is an **Electrical Engineering Student** at Washington State Univers
 
 ---
 
-[Past Projects Page](PASTPROJECTS.md) \t [About Me](ABOUTME.md)
+[Past Projects Page](PASTPROJECTS.md)&nbsp;&nbsp;&nbsp;&nbsp;[About Me](ABOUTME.md)
 
 ---
 
