@@ -1,4 +1,4 @@
-<img src="Banner.png" width="45%" />
+<img src="IMG_6048.jpg" width="90%" />
 # Hello
 
 Electrical Engineering student at Washington State University focused on **RF systems**, **embedded development**, **robotics**, and **digital logic**. I love to build low‑level systems with an emphasis on clarity, maintainability, simplicity, and hands‑on engineering.
