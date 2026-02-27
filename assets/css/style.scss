@@ -1,5 +1,15 @@
----
----
 
-$green: #6EC6FF; /* modern UI sky blue */
+$green: #6EC6FF;
+
+li::before {
+  content: "+ ";
+}
+
+@import "jekyll-theme-hacker";
+$font-family: "Calibri", "Segoe UI", Arial, sans-serif;
+
+body {
+  font-family: "Calibri", "Segoe UI", Arial, sans-serif !important;
+}
+
 @import "jekyll-theme-hacker";
