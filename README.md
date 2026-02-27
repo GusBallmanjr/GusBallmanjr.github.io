@@ -1,7 +1,7 @@
 <img src="IMG_6048.jpg" width="25%" />
 # Hello
 
-Gus Ballman is an **Electrical Engineering Student** at Washington State University focused on **RF systems**, **embedded development**, **robotics**, and **digital logic**. I love to build low‑level systems with an emphasis on clarity, maintainability, simplicity, and hands‑on engineering.
+Gus Ballman is an **Electrical Engineering Student** at Washington State University focused on **RF systems**, **embedded development**, **robotics**, and **digital logic**. In his free time he likes to build low‑level systems with an emphasis on clarity, maintainability, simplicity, and hands‑on engineering.
 
 ---
 
