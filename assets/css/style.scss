@@ -3,17 +3,25 @@
 
 @import "jekyll-theme-modernist";
 
-/* ===== Background ===== */
+/* ===== Soft Bright Blue Background ===== */
 body {
-  background-color: #f2f3f5 !important;  /* soft neutral */
+  background-color: #eaf4ff !important;  /* soft bright blue */
   color: #2b2b2b !important;             /* dark body text */
   font-family: "Calibri", "Segoe UI", Arial, sans-serif !important;
   line-height: 1.6;
 }
 
-/* ===== Headings (darker than body) ===== */
+/* ===== Main Content Card ===== */
+.wrapper {
+  background-color: #ffffff !important;  /* white content panel */
+  padding: 40px !important;
+  border-radius: 8px;
+  max-width: 1000px;
+}
+
+/* ===== Headings ===== */
 h1, h2, h3, h4, h5, h6 {
-  color: #111111 !important;   /* strong charcoal */
+  color: #111111 !important;   /* strong dark charcoal */
   font-weight: 600;
 }
 
@@ -33,16 +41,11 @@ a:hover {
 
 /* ===== Header Bar ===== */
 header {
-  background: #e4e6ea !important;
-  border-bottom: 1px solid #cfcfcf !important;
+  background: #dbeeff !important;
+  border-bottom: 1px solid #c5e0ff !important;
 }
 
 /* ===== Horizontal Rules ===== */
 hr {
-  border-color: #d4d4d4 !important;
-}
-
-/* ===== Wrapper width ===== */
-.wrapper {
-  max-width: 1000px;
+  border-color: #d0d0d0 !important;
 }
