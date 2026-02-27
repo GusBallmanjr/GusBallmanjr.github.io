@@ -2,18 +2,3 @@ theme: jekyll-theme-hacker
 title: "Gus Ba11man"
 sass:
   style: compressed
-
-$green: #6EC6FF;
-
-li::before {
-  content: "+ ";
-}
-
-@import "jekyll-theme-hacker";
-$font-family: "Calibri", "Segoe UI", Arial, sans-serif;
-
-body {
-  font-family: "Calibri", "Segoe UI", Arial, sans-serif !important;
-}
-
-@import "jekyll-theme-hacker";
