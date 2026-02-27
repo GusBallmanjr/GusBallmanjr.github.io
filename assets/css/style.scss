@@ -1,28 +1,29 @@
 ---
 ---
 
-/* 1. Override the theme's Sass variable */
-$green: #6EC6FF;
+/* 1. Override the theme's Sass variable (used during build) */
+$green: #ffffff;
 
 /* Import the theme */
 @import "jekyll-theme-hacker";
 
-/* 2. Override the CSS variable the theme uses */
+/* 2. Override the CSS variable the theme uses at runtime */
 :root {
-  --green: #6EC6FF;
+  --green: #ffffff;
 }
 
-/* 3. Force accent elements to use your color */
+/* 3. Force all accent elements to use white */
 a,
 h1, h2, h3, h4, h5, h6,
-strong {
-  color: #6EC6FF !important;
+strong,
+.title {
+  color: #ffffff !important;
 }
 
 /* Replace >> with + */
 li::before {
   content: "+ ";
-  color: #6EC6FF !important;
+  color: #ffffff !important;
 }
 
 /* Calibri font */
