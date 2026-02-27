@@ -12,9 +12,9 @@ $green: #ffffff;
   --green: #ffffff;
 }
 
-/* 4. Headers should be light grey */
+/* 4. Headers should be darker grey (lighter than background) */
 h1, h2, h3, h4, h5, h6, .title {
-  color: #d9d9d9 !important;   /* very light grey */
+  color: #b3b3b3 !important;   /* darker grey */
 }
 
 /* 5. Normal text should be white */
@@ -23,7 +23,7 @@ body, p, li, span {
   font-family: "Calibri", "Segoe UI", Arial, sans-serif !important;
 }
 
-/* 6. Hyperlinks stay white (or change here if you want a different color) */
+/* 6. Hyperlinks stay white (or change here if needed) */
 a {
   color: #ffffff !important;
 }
@@ -34,7 +34,7 @@ li::before {
   color: #ffffff !important;
 }
 
-/* 8. Make the horizontal rule black */
+/* 8. Make the header underline (hr) black instead of green */
 hr {
   border-color: #000000 !important;
 }
