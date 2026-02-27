@@ -1,18 +1,18 @@
 ---
 ---
 
-/* 1. Override the theme's Sass variable (used during build) */
+/* 1. Replace the theme's Sass color */
 $green: #ffffff;
 
-/* Import the theme */
+/* 2. Load the Hacker theme */
 @import "jekyll-theme-hacker";
 
-/* 2. Override the CSS variable the theme uses at runtime */
+/* 3. Override the theme's CSS variable */
 :root {
   --green: #ffffff;
 }
 
-/* 3. Force all accent elements to use white */
+/* 4. Force all accent elements to white */
 a,
 h1, h2, h3, h4, h5, h6,
 strong,
@@ -20,13 +20,13 @@ strong,
   color: #ffffff !important;
 }
 
-/* Replace >> with + */
+/* 5. Replace >> with + */
 li::before {
-  content: "+ ";
+  content: "+ " !important;
   color: #ffffff !important;
 }
 
-/* Calibri font */
+/* 6. Calibri font */
 body {
   font-family: "Calibri", "Segoe UI", Arial, sans-serif !important;
 }
