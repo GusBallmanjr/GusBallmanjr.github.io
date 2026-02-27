@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+title: "Gus Ba11man"
+sass:
+  style: compressed
