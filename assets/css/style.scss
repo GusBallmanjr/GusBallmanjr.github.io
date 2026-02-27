@@ -1,40 +1,48 @@
 ---
 ---
 
-/* 1. Override theme accent color */
-$green: #ffffff;
+/* 1. Load Modernist theme */
+@import "jekyll-theme-modernist";
 
-/* 2. Load the Hacker theme */
-@import "jekyll-theme-hacker";
-
-/* 3. Override CSS variable */
-:root {
-  --green: #ffffff;
-}
-
-/* 4. Headers: darker grey (lighter than background) */
-h1, h2, h3, h4, h5, h6, .title {
-  color: #b0b0b0 !important;   /* darker grey */
-}
-
-/* 5. Body text: white */
-body, p, li, span {
+/* 2. Background: keep dark look */
+body {
+  background-color: #0d1117 !important;   /* dark background */
   color: #ffffff !important;
   font-family: "Calibri", "Segoe UI", Arial, sans-serif !important;
 }
 
-/* 6. Hyperlinks: sky blue */
+/* 3. Headers: grey like your current site */
+h1, h2, h3, h4, h5, h6 {
+  color: #b0b0b0 !important;
+  font-weight: 600;
+}
+
+/* 4. Paragraph + list text */
+p, li, span {
+  color: #ffffff !important;
+}
+
+/* 5. Links: sky blue */
 a {
   color: #4DA3FF !important;
 }
 
-/* 7. Remove >> completely */
-li::before {
-  content: "" !important;
-  color: #ffffff !important;
+a:hover {
+  color: #82c4ff !important;
 }
 
-/* 8. Header underline (hr): black */
+/* 6. Remove Modernist header background */
+header {
+  background: none !important;
+  border-bottom: none !important;
+}
+
+/* 7. Clean horizontal rules */
 hr {
   border-color: #000000 !important;
+}
+
+/* 8. Optional: center content a bit wider */
+.wrapper {
+  max-width: 1000px;
 }
