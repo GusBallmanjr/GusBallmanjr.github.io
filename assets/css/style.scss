@@ -1,32 +1,40 @@
 ---
 ---
 
-/* 1. Replace the theme's Sass color */
+/* 1. Override the theme's Sass accent color */
 $green: #ffffff;
 
 /* 2. Load the Hacker theme */
 @import "jekyll-theme-hacker";
 
-/* 3. Override the theme's CSS variable */
+/* 3. Override the CSS variable */
 :root {
   --green: #ffffff;
 }
 
-/* 4. Force all accent elements to white */
-a,
-h1, h2, h3, h4, h5, h6,
-strong,
-.title {
-  color: #ffffff !important;
+/* 4. Headers should be light grey */
+h1, h2, h3, h4, h5, h6, .title {
+  color: #d9d9d9 !important;   /* very light grey */
 }
 
-/* 5. Replace >> with + */
-li::before {
-  content: "+ " !important;
+/* 5. Normal text should be white */
+body, p, li, span {
   color: #ffffff !important;
-}
-
-/* 6. Calibri font */
-body {
   font-family: "Calibri", "Segoe UI", Arial, sans-serif !important;
+}
+
+/* 6. Hyperlinks stay white (or change here if you want a different color) */
+a {
+  color: #ffffff !important;
+}
+
+/* 7. Remove >> completely */
+li::before {
+  content: "" !important;
+  color: #ffffff !important;
+}
+
+/* 8. Make the horizontal rule black */
+hr {
+  border-color: #000000 !important;
 }
