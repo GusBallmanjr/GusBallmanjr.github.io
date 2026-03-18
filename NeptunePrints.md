@@ -1,6 +1,3 @@
-## Neptune Prints
-## By Gus Ballman
-
 <img src="NeptunePrintsGusBallman.jpg" width="100%" />
 
 ---
