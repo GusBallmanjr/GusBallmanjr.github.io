@@ -26,15 +26,18 @@ Gus Ballman is an **Electrical Engineering Student** at Washington State Univers
 
 ---
 
-## Featured Projects (Current)
+## Current Projects
 + **Monolithic ARM Kernel** [Kernel Project](https://github.com/GusBallmanjr/ARM-Monolithic-Kernel) - ARM based, Linux-inspired architecture, memory management, and scheduling
 + **Kevlar Encryption** [Encryption Project](https://github.com/mrthomaslibrary/kevlar-encryption) - Lightweight asymmetric encryption system
-+ **WSU EE 234 Coursework** [EE 234 - Gus Ballman](https://github.com/GusBallmanjr/EE-234---Microprocessor-Systems---ARM-Assembly-and-C) - Embedded ARM Microprocessor Programming in ARM Assembly and C
++ **Undercutter Battlebot** [Crimson Robotics Project](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot) - Iterative robotics project (including competition experience)
++ **WSU EE 234 Coursework** [EE 234 - Gus Ballman](https://github.com/GusBallmanjr/EE-234---Microprocessor-Systems---ARM-Assembly-and-C) - Embedded ARM microprocessor Programming in ARM assembly and C
++ **WSU STATS 360 Coursework** [STATS 360 - Gus Ballman](https://github.com/GusBallmanjr/STATS-360---Probability-and-Statistics---MATLAB) - Matlab for problem sets
 
 ---
 
 ## What I’m Working On
-+ RF Experimentation & Ham Radio Certification  
++ Six Sigma Green Belt certification
++ RF Experimentation & Ham Radio certification  
 + Expanding my Kernel Subsystems and Knowledge  
 + Lightweight Cryptography Modules  
 
