@@ -31,7 +31,6 @@ Gus Ballman is an **Electrical Engineering Student** at Washington State Univers
 + **Kevlar Encryption** [Encryption Project](https://github.com/mrthomaslibrary/kevlar-encryption) - Lightweight asymmetric encryption system
 + **Undercutter Battlebot** [Crimson Robotics Project](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot) - Iterative robotics project (including competition experience)
 + **WSU EE 234 Coursework** [EE 234 - Gus Ballman](https://github.com/GusBallmanjr/EE-234---Microprocessor-Systems---ARM-Assembly-and-C) - Embedded ARM microprocessor Programming in ARM assembly and C
-+ **WSU STATS 360 Coursework** [STATS 360 - Gus Ballman](https://github.com/GusBallmanjr/STATS-360---Probability-and-Statistics---MATLAB) - Matlab for problem sets
 
 ---
 
