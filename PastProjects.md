@@ -1,5 +1,6 @@
 ## Past Projects in Chronological Order (Newest at Top)
 
++ **WSU EE 234 Coursework** [EE 234 - Gus Ballman](https://github.com/GusBallmanjr/EE-234---Microprocessor-Systems---ARM-Assembly-and-C) - Embedded ARM microprocessor Programming in ARM assembly and C
 + **2026 CrimsonCode Hackathon** [OGRE Encryption - Precursor to Kevlar Encryption](https://github.com/GusBallmanjr/2026-CrimsonCode-Hackathon-OGRE-Encyrption-)
 + **WSU CptS 122 Final Project** [CptS 122 Final Project](https://github.com/GusBallmanjr/CptS-122-Data-Structures-WSU---Project-9)
 + **WSU EE 214 Coursework** [EE 214 - Gus Ballman](https://github.com/GusBallmanjr/EE-214-Design-of-Logical-Circuits--Verilog--)
