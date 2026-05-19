@@ -30,7 +30,6 @@ Gus Ballman is an **Electrical Engineering Student** at Washington State Univers
 + **Monolithic ARM Kernel** [Kernel Project](https://github.com/GusBallmanjr/ARM-Monolithic-Kernel) - ARM based, Linux-inspired architecture, memory management, and scheduling
 + **Kevlar Encryption** [Encryption Project](https://github.com/mrthomaslibrary/kevlar-encryption) - Lightweight asymmetric encryption system
 + **Undercutter Battlebot** [Crimson Robotics Project](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot) - Iterative robotics project (including competition experience)
-+ **WSU EE 234 Coursework** [EE 234 - Gus Ballman](https://github.com/GusBallmanjr/EE-234---Microprocessor-Systems---ARM-Assembly-and-C) - Embedded ARM microprocessor Programming in ARM assembly and C
 
 ---
 
